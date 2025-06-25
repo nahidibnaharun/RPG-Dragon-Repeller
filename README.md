@@ -1,9 +1,11 @@
-Live LINK: https://nahidibnaharun.github.io/RPG-Dragon-Repeller/
 # 🐉 RPG Dragon Repeller
 
 A simple browser-based RPG game where you fend off dragons and level up your skills!
 
 ---
+| Dashboard Preview |
+|-------------------|
+|![image](https://github.com/user-attachments/assets/60f006d6-b2f6-4403-be91-78856151fe5a)|
 
 ## 🎮 Live Demo
 
@@ -37,10 +39,6 @@ Play now: [https://nahidibnaharun.github.io/RPG-Dragon-Repeller/](https://nahidi
 ├── script.js # Game logic
 
 ├── README.md # This file
-
-less
-Copy
-Edit
 
 ---
 
